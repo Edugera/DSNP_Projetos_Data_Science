@@ -25,6 +25,6 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 ## Projetos:
 
 
-* **EM ELABORAÇÃO:** 
+* Analise de dados do Airbnb da cidade de Dublin - Irlanda: https://bit.ly/2CGPN8C 
 
 ---
