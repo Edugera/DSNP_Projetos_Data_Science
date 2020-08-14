@@ -27,5 +27,6 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 
 
 * Analise de dados do Airbnb da cidade de Dublin - Irlanda: https://bit.ly/2CGPN8C 
+* Desafio Titanic - Kaggle: 
 
 ---
