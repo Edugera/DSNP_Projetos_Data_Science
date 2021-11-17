@@ -29,5 +29,6 @@ Education is in Mathematics at UNICAMP - State University of Campinas and a degr
 * Analise de dados do Airbnb da cidade de Dublin - Irlanda: https://bit.ly/2CGPN8C 
 * Analise de dados da Violência do Rio de Janeiro: https://bit.ly/3b1WbUZ
 * Desafio Titanic - Kaggle: 
+* Manipulação de arquivos PDF: https://bit.ly/3cpkwFQ
 
 ---
